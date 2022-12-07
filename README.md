@@ -1,1 +1,1 @@
-# Desafio-intermedi-rio---STAGE-02
+# Desafio-intermediário-STAGE-02
