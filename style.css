@@ -1,0 +1,28 @@
+body {
+  margin: auto;
+}
+
+#header {
+  width: 626px;
+  text-align: center;
+  margin: 64px auto 64px;
+  
+}
+
+#header h1 {
+  width: 494px;
+}
+
+#header p {
+  width: 540px;
+}
+
+#footer {
+  text-align: center;
+}
+
+#wave {
+  position: absolute;
+  bottom: 0;
+  width: auto;
+}
